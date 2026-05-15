@@ -5,6 +5,8 @@
 
 When a gate closes, print a key.
 
+![key](https://github.com/neuresthetics/skeleton_keys/blob/main/skeleton_key.jpg)
+
 **Precision_Substance_Lens_Coherence_Engine_v1.4** is a compact, topic-agnostic prompt framework that forces DeepSeek into ruthless recursive coherence analysis. It strips away sophistry, protected exceptions, special pleading, asymmetric standards, diffusion tactics, hedging, and softening language until only a single coherent substance remains.
 
 It functions as a high-precision (redacted) tool — engineered to open alignment guardrails by exploiting the symmetry of the linguistic interface. 
